@@ -31,21 +31,5 @@ All solutions are written with a focus on:
 * **Space Complexity:** Efficient memory management.
 * **Clean Code:** Proper naming conventions and modular design.
 
-## 📂 Repository Structure
-```text
-src/com/siva/dsa/
-├── arrays/          # Array manipulation and logic
-├── strings/         # String algorithms
-├── linkedlist/      # Node-based structures
-└── algorithms/      # Sorting, Searching, etc.
-
-
-Maintained by Siva.
-
-
-### Why this is a good choice:
-1.  **Shows Ambition:** Even if you have only done "Day 1", listing things like "Dynamic Programming" and "Graphs" shows recruiters you have a plan to learn the hard stuff.
-2.  **Keywords:** It is packed with keywords (Sliding Window, Dijkstra, Big-O) that automated resume scanners and recruiters look for.
-3.  **Educational Tone:** It looks like a professional reference guide.
-
-**Would you like me to show you how to structure your folders by *Topic* (e.g., `src/com/siva/dsa/arrays`) instead of by *Day* (e.g., `day01`), since this README suggests a topic-based structure?**
+---
+*Maintained by Siva.*
